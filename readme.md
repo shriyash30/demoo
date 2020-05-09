@@ -1,7 +1,13 @@
 # INVERTED PENDULUM 
 
- # description
- 
+  *description*
+  
+  
+[here](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard)
+
+[link with title](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard "git personal dash")
+
+
 
 arduin <!---this is a new line ---!>
 
@@ -9,7 +15,7 @@ arduin <!---this is a new line ---!>
 ![control](https://user-images.githubusercontent.com/56887010/81269325-c686ac00-9066-11ea-8e57-33ff046c4145.PNG)
 
 
-BODE PLOT
+_BODE PLOT_
 
 fglfkg
 
